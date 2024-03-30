@@ -19,25 +19,33 @@
     <a href="https://www.linkedin.com/in/quang-thinh-tran-le/">
         <img src="images/linkedin.svg" />
     </a>
+    &nbsp;
     <a href="mailto:tranlequangthinh@gmail.com">
-        <img src="images/gmail.svg" />
+        <img src="images/gmail.svg" alt="QuangThinhTran"/>
     </a>
+    &nbsp;
     <a href="https://discord.gg/A2WQWMqq">
         <img src="images/discord.svg" />
     </a>
+    &nbsp;
 </div>
 
 ## Languages, Tools I Know:
 <div align="center">
-    <img src="images/typescript.svg" alt="TypeScript" title="TypeScript" />
-    <img src="images/nodejs.svg" alt="Node.js" title="Node.js" />
-    <img src="images/nestjs.svg" alt="NestJS" title="NestJS" />
-    <img src="images/php.svg" alt="PHP" title="PHP" />
-    <img src="images/laravel.svg" alt="Laravel" title="Laravel" />
-    <img src="images/mysql.svg" alt="MySQL" title="MySQL" />
-    <img src="images/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" />
-    <img src="images/postman.svg" alt="Postman" title="Postman" />
-    <img src="images/intellij.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-    <img src="images/github.svg" alt="GitHub" title="GitHub" />
-    <img src="images/bitbucket.svg" alt="Bitbucket" title="Bitbucket" />
+    <img src="images/typescript.svg" alt="TypeScript" title="TypeScript"/>&nbsp;
+    <img src="images/nodejs.svg" alt="Node.js" title="Node.js" />&nbsp;
+    <img src="images/nestjs.svg" alt="NestJS" title="NestJS" />&nbsp;
+    <img src="images/php.svg" alt="PHP" title="PHP" />&nbsp;
+    <img src="images/laravel.svg" alt="Laravel" title="Laravel" />&nbsp;
+    <img src="images/mysql.svg" alt="MySQL" title="MySQL" />&nbsp;
+    <img src="images/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+    <img src="images/postman.svg" alt="Postman" title="Postman" />&nbsp;
+    <img src="images/intellij.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;
+    <img src="images/github.svg" alt="GitHub" title="GitHub" />&nbsp;
+    <img src="images/bitbucket.svg" alt="Bitbucket" title="Bitbucket" />&nbsp;
 </div>
+<style>
+    a {
+        text-decoration:none;    
+    }
+</style>
