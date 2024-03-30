@@ -16,16 +16,16 @@
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/quang-thinh-tran-le/">
-        <img src="images/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/quang-thinh-tran-le/" target="top">
+        <img src="images/linkedin.svg" alt="QuangThinhTran"/>
     </a>
     &nbsp;
-    <a href="mailto:tranlequangthinh@gmail.com">
+    <a href="mailto:tranlequangthinh@gmail.com" target="top">
         <img src="images/gmail.svg" alt="QuangThinhTran"/>
     </a>
     &nbsp;
-    <a href="https://discord.gg/A2WQWMqq">
-        <img src="images/discord.svg" />
+    <a href="https://discord.gg/A2WQWMqq" target="top">
+        <img src="images/discord.svg" alt="QuangThinhTran"/>
     </a>
     &nbsp;
 </div>
@@ -44,8 +44,3 @@
     <img src="images/github.svg" alt="GitHub" title="GitHub" />&nbsp;
     <img src="images/bitbucket.svg" alt="Bitbucket" title="Bitbucket" />&nbsp;
 </div>
-<style>
-    a {
-        text-decoration:none;    
-    }
-</style>
