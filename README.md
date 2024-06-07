@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=Hello+Guys!,+I'm+TRAN+LE+QUANG+THINH;I'm+Back-end+Developer&center=true&width=700&height=45&vCenter=true&pause=1000&size=25" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F3F7FF&width=435&lines=Hello+Guys!,+I'm+TRAN+LE+QUANG+THINH;I'm+Backend+Developer&center=true&width=700&height=45&vCenter=true&pause=1000&size=25" />
 </div>
 
 <h3 align="center">So I heard the ladies like bad boys. Lucky for them, I'm bad at everything</h3>
